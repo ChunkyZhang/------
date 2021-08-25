@@ -1,0 +1,34 @@
+{
+	"Lua.diagnostics.globals": [
+
+	],
+	"Lua.diagnostics.disable": [
+		"undefined-global",
+		"lowercase-global",
+		"redefined-local",
+		"undefined-field",
+		"trailing-space"
+	],
+
+	// "editor.fontFamily": "Cascadia Code" JetBrains Mono Inconsolata Source Code Pro  Cascadia Mono
+
+	"editor.fontFamily": "JetBrains Mono",
+	"editor.fontLigatures": true,
+	"editor.fontWeight": "normal",
+	"Lua.hint.enable": true,
+	"Lua.hint.setType": true,
+	"Lua.runtime.version": "Lua 5.2",
+	"Lua.runtime.unicodeName": true,
+	"editor.suggest.snippetsPreventQuickSuggestions": false,
+	"editor.tabCompletion": "on",
+	"emmet.showSuggestionsAsSnippets": true,
+	"files.autoSave": "onWindowChange",
+	"Lua.completion.callSnippet": "Replace",
+	"touchsprite-extension.accessKey": "FK3boO82aVBs3Cwy2bHLPKbrpTzje2IrCZ9neswfvbNPVCK2xv2s8Jdf4cZW66zC",
+	"touchsprite-extension.snapshotClassifyByDpi": true,
+	"touchsprite-extension.osType": "苹果",
+	"lua-format-extension.lineWidth": 200,
+	"lua-format-extension.indentCount": 10
+}
+
+
